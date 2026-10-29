@@ -18,7 +18,7 @@ class CatalogoPeliculasApp extends StatelessWidget {
         ),
         body: const Center(
           child: Text(
-            'Hello World',
+            'Hello World!',
             style: TextStyle(fontSize: 24),
           ),
         ),
